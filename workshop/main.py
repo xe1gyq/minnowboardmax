@@ -91,4 +91,11 @@ if __name__ == '__main__':
         cpwm = Cpwm()
         cpwm.start()
 
+    if args.calamari == 'buttons':
+
+        from core.cbuttons import Cbuttons
+
+        cbuttons = Cbuttons()
+        cbuttons.start()
+
 # End of File
