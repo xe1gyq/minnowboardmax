@@ -77,4 +77,11 @@ if __name__ == '__main__':
         crgb = Crgb()
         crgb.start()
 
+    if args.calamari == '7seg':
+
+        from core.c7seg import C7seg
+
+        c7seg = C7seg()
+        c7seg.start()
+
 # End of File
