@@ -84,4 +84,11 @@ if __name__ == '__main__':
         c7seg = C7seg()
         c7seg.start()
 
+    if args.calamari == 'pwm':
+
+        from core.cpwm import Cpwm
+
+        cpwm = Cpwm()
+        cpwm.start()
+
 # End of File
