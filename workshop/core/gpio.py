@@ -4,7 +4,7 @@ import time
 class Gpio(object):
 
     def __init__(self):
-        self.gp = mraa.Gpio(21)
+        self.gp = mraa.Gpio(25)
         self.gp.dir(mraa.DIR_OUT)
 
     def toggle(self):

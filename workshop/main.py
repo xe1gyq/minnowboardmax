@@ -10,6 +10,7 @@ if __name__ == '__main__':
 
     parser = argparse.ArgumentParser(description='MinnowBoard Max Workshop')
     parser.add_argument('-m', '--modules', help='Module Mode')
+    parser.add_argument('-c', '--calamari', help='Calamari Mode')
     args = parser.parse_args()
 
     if args.modules == 'alive':
@@ -68,5 +69,12 @@ if __name__ == '__main__':
 
         i2c = I2c()
         i2c.read()
+
+    if args.calamari == 'rgb':
+
+        from core.crgb import Crgb
+
+        crgb = Crgb()
+        crgb.start()
 
 # End of File
