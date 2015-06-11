@@ -62,4 +62,11 @@ if __name__ == '__main__':
         pwm = Pwm()
         pwm.start()
 
+    if args.modules == 'i2c':
+
+        from core.i2c import I2c
+
+        i2c = I2c()
+        i2c.read()
+
 # End of File
