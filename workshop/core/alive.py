@@ -1,9 +1,9 @@
-class Alive(object):
+çclass Alive(object):
 
     def __init__(self):
         pass
 
     def report(self):
-        print 'Hello IoTPy'
+        print 'Hello Minnowboard Max!'
 
 # End of File
