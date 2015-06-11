@@ -55,4 +55,11 @@ if __name__ == '__main__':
         gpio = Gpio()
         gpio.toggle()
 
+    if args.modules == 'pwm':
+
+        from core.pwm import Pwm
+
+        pwm = Pwm()
+        pwm.start()
+
 # End of File
