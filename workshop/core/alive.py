@@ -1,4 +1,6 @@
-çclass Alive(object):
+#!/usr/bin/python
+
+class Alive(object):
 
     def __init__(self):
         pass
