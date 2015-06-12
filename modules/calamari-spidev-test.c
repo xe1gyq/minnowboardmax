@@ -15,8 +15,8 @@
  * the Free Software Foundation; either version 2 of the License.
  */
 
-//#include <stdint.h>
-//#include <unistd.h>
+#include <stdint.h>
+#include <unistd.h>
 #include <stdio.h>
 #include <stdlib.h>
 #include <getopt.h>
