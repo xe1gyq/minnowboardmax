@@ -1,6 +1,8 @@
 # Kernel Compilation
 
-All these steps in your Minnowboard MAX. Check your current Kernel version
+All these steps in your Minnowboard MAX. 
+
+Check your current Kernel version
 
     user@Minnowboard:~$ uname -a
     Linux Minnowboard A.BB.CC ...
