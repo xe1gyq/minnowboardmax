@@ -11,4 +11,4 @@ Universal Asynchronous Receiver-Transmitter
 - [MinnowBoard UART and COM ports problem](http://lists.elinux.org/pipermail/elinux-minnowboard/Week-of-Mon-20150622/001676.html)
  - [MinnowBoard UART and COM ports problem __Sequence__](http://lists.elinux.org/pipermail/elinux-minnowboard/Week-of-Mon-20150629/001693.html)
 - [MinnowBoard Problem with UART](http://lists.elinux.org/pipermail/elinux-minnowboard/Week-of-Mon-20150622/001662.html)
-- [](http://lists.elinux.org/pipermail/elinux-minnowboard/Week-of-Mon-20150817/001826.html)
+- [MinnowBoard Using HS UARTs in UEFI](http://lists.elinux.org/pipermail/elinux-minnowboard/Week-of-Mon-20150817/001826.html)
