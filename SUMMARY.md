@@ -3,7 +3,7 @@
 * [Introduction](README.md)
 * [Summary](SUMMARY.md)
 * [Bios](documentation/Bios.md)
-* [Installation](documentation/OsInstallation.md)
+* [OS Installation](documentation/OsInstallation.md)
 * [Kernel Compilation](documentation/KernelCompilation.md)
 * [Uart](documentation/Uart.md)
 * [Camera](documentation/Camera.md)
