@@ -6,5 +6,5 @@
     Switched to a new branch '4.1'
     user@Minnowboard:~$ rm .config
     user@Minnowboard:~$ wget https://raw.githubusercontent.com/xe1gyq/minnowboardmax/master/.config
-    user@Minnowboard:~$ 
+    user@Minnowboard:~$ make
     
