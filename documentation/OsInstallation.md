@@ -8,9 +8,7 @@
 >
 > However, there are a few things to keep in mind...
 
-To continue reading please go to Minnowboard Max Wiki:
-
-    http://elinux.org/Minnowboard:MinnowMaxDistros
+To continue reading please go to Minnowboard Max Wiki: http://elinux.org/Minnowboard:MinnowMaxDistros
  
 We do not want to rewrite things :)
 
