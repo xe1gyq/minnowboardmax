@@ -1,6 +1,8 @@
 Next Steps
 ==
 
+    user@Minnowboard:~$ uname -a
+    
     user@Minnowboard:~$ cd linux
     user@Minnowboard:~$ git pull
     user@Minnowboard:~$ git checkout -b 4.1 v4.1
