@@ -9,5 +9,5 @@
 * [Camera](Camera.md)
 * [C Next Steps](CNextSteps.md)
 * [Audio](Audio.md)
-* Gpio
+* [Gpio](Gpio.md)
 
