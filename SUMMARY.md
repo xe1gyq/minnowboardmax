@@ -1,6 +1,6 @@
 # Summary
 
-* [Introduction](documentation/README.md)
+* [Introduction](README.md)
 * [Summary](SUMMARY.md)
 * [Bios](documentation/Bios.md)
 * [Installation](documentation/OsInstallation.md)
