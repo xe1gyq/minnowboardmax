@@ -1,6 +1,6 @@
 # Summary
 
-* [SUMMARY](Summary.md)
+* [Summary](Summary.md)
 * [Installation](Installation.md)
 * [Kernel Compilation](KernelCompilation.md)
 * [UART](Uart.md)
