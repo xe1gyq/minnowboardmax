@@ -22,7 +22,7 @@ BIOS Configuration
 
 Taken from http://elinux.org/Minnowboard:MaxBios#BIOS_menu
 
-- Reboot your board and keep pressing F2
+- Reboot your board and keep pressing F2 until you get into the BIOS
 
 
 
