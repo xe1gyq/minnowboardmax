@@ -15,6 +15,8 @@ Kernel update and installation
     user@Minnowboard:~$ make
     user@Minnowboard:~# make modules_install
     user@Minnowboard:~# make install
+    user@Minnowboard:~# reboot
+    user@Minnowboard:~$ uname -a
 
 BIOS Configuration
 
