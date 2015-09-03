@@ -8,4 +8,5 @@
 * [Uart](Uart.md)
 * [Camera](Camera.md)
 * [C Next Steps](CNextSteps.md)
+* Audio
 
