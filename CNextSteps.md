@@ -2,6 +2,7 @@ Next Steps
 ==
 
 Kernel update and installation
+
     user@Minnowboard:~$ uname -a
     Linux minnowboard 4.1.0-rc7+ #4 SMP ... x86_64 GNU/Linux
     user@Minnowboard:~$ cd linux
