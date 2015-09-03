@@ -20,6 +20,8 @@ Kernel update and installation
 
 BIOS Configuration
 
-http://elinux.org/Minnowboard:MaxBios#BIOS_menu
+Taken from http://elinux.org/Minnowboard:MaxBios#BIOS_menu
+
+
 
 
