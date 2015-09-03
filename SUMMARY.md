@@ -10,5 +10,5 @@
 * [Audio](documentation/Audio.md)
 * [Gpio](documentation/Gpio.md)
 * [C Next Steps](documentation/CNextSteps.md)
-* Background
+* [Background](documentation/Background.md)
 
