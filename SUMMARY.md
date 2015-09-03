@@ -6,4 +6,5 @@
 * [Kernel Compilation](KernelCompilation.md)
 * [Uart](Uart.md)
 * [C Next Steps](CNextSteps.md)
+* Bios
 
