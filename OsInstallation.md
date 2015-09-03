@@ -1,4 +1,4 @@
-# Installation
+# Operating System Installation
 
 > The general process of setting up Linux for the MinnowBoard MAX is quite similar to setting up Linux on any other computer:
 >
