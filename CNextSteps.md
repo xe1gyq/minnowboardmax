@@ -22,11 +22,11 @@ BIOS Configuration
 
 Taken from http://elinux.org/Minnowboard:MaxBios#BIOS_menu
 
-- Reboot your board and keep pressing F2 until you get into the BIOS menu
+- Reboot your board and keep pressing F2 until you get into the BIOS menu, make sure the below configurations are set
 
 
-    LPSS & SCC Devices Mode
-    PCI Mode / ACPI Mod
+    LPSS & SCC Devices Mode (ACPI Mod)
+    PCI Mode / __ACPI Mod__
 
     LPSS 1 Configuration
     LPSS HSUART #1 Support
