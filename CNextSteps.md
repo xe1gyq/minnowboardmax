@@ -22,6 +22,8 @@ BIOS Configuration
 
 Taken from http://elinux.org/Minnowboard:MaxBios#BIOS_menu
 
+- 
+
 
 
 
