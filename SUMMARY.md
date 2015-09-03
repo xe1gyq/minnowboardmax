@@ -1,13 +1,13 @@
 # Summary
 
-* [Introduction](README.md)
-* [Summary](Summary.md)
-* [Bios](Bios.md)
-* [Installation](OsInstallation.md)
+* [Introduction](documentation/README.md)
+* [Summary](documentation/Summary.md)
+* [Bios](documentation/Bios.md)
+* [Installation](documentation/OsInstallation.md)
 * [Kernel Compilation](documentation/KernelCompilation.md)
-* [Uart](Uart.md)
-* [Camera](Camera.md)
-* [C Next Steps](CNextSteps.md)
-* [Audio](Audio.md)
-* [Gpio](Gpio.md)
+* [Uart](documentation/Uart.md)
+* [Camera](documentation/Camera.md)
+* [C Next Steps](documentation/CNextSteps.md)
+* [Audio](documentation/Audio.md)
+* [Gpio](documentation/Gpio.md)
 
