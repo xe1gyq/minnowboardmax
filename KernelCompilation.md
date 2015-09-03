@@ -1,6 +1,6 @@
 # Kernel Compilation
 
-__All these steps in your Minnowboard MAX. __
+__All these steps in your Minnowboard MAX __
 
 Check your current Kernel version
 
