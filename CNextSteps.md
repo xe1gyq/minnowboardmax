@@ -13,4 +13,8 @@ Next Steps
     user@Minnowboard:~$ make
     user@Minnowboard:~# make modules_install
     user@Minnowboard:~# make install
-    
+
+BIOS Configuration
+
+http://elinux.org/Minnowboard:MaxBios#BIOS_menu
+
