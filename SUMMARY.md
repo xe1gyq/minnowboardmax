@@ -1,5 +1,5 @@
 # Summary
 
 * [SUMMARY](Summary.md)
-* [Installation](installation.md)
+* [Installation](Installation.md)
 
