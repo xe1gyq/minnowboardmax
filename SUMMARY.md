@@ -2,6 +2,7 @@
 
 * [Introduction](README.md)
 * [Summary](SUMMARY.md)
+* [Background](documentation/Background.md)
 * [Bios](documentation/Bios.md)
 * [OS Installation](documentation/OsInstallation.md)
 * [Kernel Compilation](documentation/KernelCompilation.md)
@@ -10,5 +11,4 @@
 * [Audio](documentation/Audio.md)
 * [Gpio](documentation/Gpio.md)
 * [C Next Steps](documentation/CNextSteps.md)
-* [Background](documentation/Background.md)
 
