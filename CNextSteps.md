@@ -7,4 +7,6 @@
     user@Minnowboard:~$ rm .config
     user@Minnowboard:~$ wget https://raw.githubusercontent.com/xe1gyq/minnowboardmax/master/.config
     user@Minnowboard:~$ make
+    user@Minnowboard:~# make modules_install
+    user@Minnowboard:~# make install
     
