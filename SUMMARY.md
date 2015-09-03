@@ -7,7 +7,7 @@
 * [Kernel Compilation](documentation/KernelCompilation.md)
 * [Uart](documentation/Uart.md)
 * [Camera](documentation/Camera.md)
-* [C Next Steps](documentation/CNextSteps.md)
 * [Audio](documentation/Audio.md)
+* [C Next Steps](documentation/CNextSteps.md)
 * [Gpio](documentation/Gpio.md)
 
