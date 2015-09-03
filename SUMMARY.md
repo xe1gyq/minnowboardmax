@@ -2,9 +2,9 @@
 
 * [Introduction](README.md)
 * [Summary](Summary.md)
+* [Bios](Bios.md)
 * [Installation](Installation.md)
 * [Kernel Compilation](KernelCompilation.md)
 * [Uart](Uart.md)
 * [C Next Steps](CNextSteps.md)
-* [Bios](Bios.md)
 
