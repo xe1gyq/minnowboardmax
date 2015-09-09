@@ -29,5 +29,3 @@ Let's compile and execute one example
      Version: v0.7.2-2-g1c4be07
      Running on MinnowBoard MAX
 
-# End of File
-
