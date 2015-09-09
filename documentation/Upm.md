@@ -11,5 +11,3 @@ Sensor/Actuator repository for libmraa
     user@Minnowboard:~$ cmake .. -DBUILDSWIGNODE=OFF
     user@Minnowboard:~$ make
     root@Minnowboard:~# make install
-
-# End of File
