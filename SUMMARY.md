@@ -13,5 +13,5 @@
 * [I2C](documentation/I2c.md)
 * [PWM](documentation/Pwm.md)
 * [C Next Steps](documentation/CNextSteps.md)
-* SPI
+* [SPI](documentation/Spi.md)
 
