@@ -17,4 +17,5 @@
 * [C Next Steps](documentation/CNextSteps.md)
 * [MRAA](Mraa.md)
 * [UPM](Upm.md)
+* Yocto
 
