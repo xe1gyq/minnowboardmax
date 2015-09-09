@@ -13,7 +13,7 @@
 * [I2C](documentation/I2c.md)
 * [PWM](documentation/Pwm.md)
 * [SPI](documentation/Spi.md)
-* [LED](Led.md)
+* [LED](documentation/Led.md)
 * [MRAA](documentation/Mraa.md)
 * [UPM](documentation/Upm.md)
 * [Yocto](documentation/Yocto.md)
