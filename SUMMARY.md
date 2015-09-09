@@ -11,4 +11,5 @@
 * [Audio](documentation/Audio.md)
 * [Gpio](documentation/Gpio.md)
 * [C Next Steps](documentation/CNextSteps.md)
+* I2C
 
