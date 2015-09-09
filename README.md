@@ -21,7 +21,8 @@
 - [Public Bug List:](https://wiki.yoctoproject.org/wiki/Minnow_Bug_Triage)
 - [The extras](https://github.com/MinnowBoard/minnow-max-extras)
 - [Firmware Sources](http://firmware.intel.com/projects/minnowboard-max)
-- [Minnowboard-MAX Public Wiki](http://elinux.org/Minnowboard:MinnowMax)
+- [Minnowboard-MAX Public Wiki Old](http://elinux.org/Minnowboard:MinnowMax)
+- [Minnowboard-MAX Public Wiki New](http://wiki.minnowboard.org/MinnowBoard_Wiki_Home)
 - [Google+ Page MinnowBoard](https://plus.google.com/+MinnowboardOrg/posts)
 - [Mailing List](http://lists.elinux.org/mailman/listinfo/elinux-minnowboard)
 - IRC channel
