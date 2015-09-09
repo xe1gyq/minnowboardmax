@@ -12,5 +12,5 @@
 * [Gpio](documentation/Gpio.md)
 * [I2C](documentation/I2c.md)
 * [C Next Steps](documentation/CNextSteps.md)
-* PWM
+* [PWM](documentation/Pwm.md)
 
