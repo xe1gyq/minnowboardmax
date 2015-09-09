@@ -16,6 +16,6 @@
 * [LED](Led.md)
 * [C Next Steps](documentation/CNextSteps.md)
 * [MRAA](Mraa.md)
-* [UPM](Upm.md)
+* [UPM](documentation/Upm.md)
 * [Yocto](documentation/Yocto.md)
 
