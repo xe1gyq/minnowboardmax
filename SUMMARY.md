@@ -13,6 +13,6 @@
 * [I2C](documentation/I2c.md)
 * [PWM](documentation/Pwm.md)
 * [SPI](documentation/Spi.md)
-* [C Next Steps](documentation/CNextSteps.md)
 * [LED](Led.md)
+* [C Next Steps](documentation/CNextSteps.md)
 
