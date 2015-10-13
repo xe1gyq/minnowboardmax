@@ -3,7 +3,7 @@
 * [Introduction](README.md)
 * [Summary](SUMMARY.md)
 * [Background](documentation/Background.md)
-* Hardware
+* [Hardware](documentation/Hardware.md)
 * [Bios](documentation/Bios.md)
 * [OS Installation](documentation/OsInstallation.md)
 * [Kernel Compilation](documentation/KernelCompilation.md)
