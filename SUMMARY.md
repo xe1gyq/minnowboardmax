@@ -18,4 +18,5 @@
 * [UPM](documentation/Upm.md)
 * [Yocto](documentation/Yocto.md)
 * [C Next Steps](documentation/CNextSteps.md)
+* Hardware
 
