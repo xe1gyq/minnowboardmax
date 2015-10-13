@@ -3,6 +3,7 @@
 * [Introduction](README.md)
 * [Summary](SUMMARY.md)
 * [Background](documentation/Background.md)
+* Hardware
 * [Bios](documentation/Bios.md)
 * [OS Installation](documentation/OsInstallation.md)
 * [Kernel Compilation](documentation/KernelCompilation.md)
@@ -18,5 +19,4 @@
 * [UPM](documentation/Upm.md)
 * [Yocto](documentation/Yocto.md)
 * [C Next Steps](documentation/CNextSteps.md)
-* Hardware
 
