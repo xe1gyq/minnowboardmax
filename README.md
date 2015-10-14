@@ -1,20 +1,5 @@
 # Minnowboard Workshop
 
-## Agenda
-
-1. [Background](https://github.com/xe1gyq/minnowboardmax/blob/master/01.Background.md)
-2. [Installation](https://github.com/xe1gyq/minnowboardmax/blob/master/02.Installation.md)
-3. [Kernel Compilation](https://github.com/xe1gyq/minnowboardmax/blob/master/03.KernelCompilation.md)
-4. [Camera](https://github.com/xe1gyq/minnowboardmax/blob/master/04.Camera.md)
-5. [Audio](https://github.com/xe1gyq/minnowboardmax/blob/master/05.Audio.md)
-6. [GPIO](https://github.com/xe1gyq/minnowboardmax/blob/master/06.Gpio.md)
-7. [I2C](https://github.com/xe1gyq/minnowboardmax/blob/master/07.I2c.md)
-8. [PWM](https://github.com/xe1gyq/minnowboardmax/blob/master/08.Pwm.md)
-9. [SPI](https://github.com/xe1gyq/minnowboardmax/blob/master/09.Spi.md)
-10. [LED](https://github.com/xe1gyq/minnowboardmax/blob/master/10.Led.md)
-11. [MRAA](https://github.com/xe1gyq/minnowboardmax/blob/master/11.Mraa.md)
-12. [UPM](https://github.com/xe1gyq/minnowboardmax/blob/master/12.Upm.md)
-
 ## Resources
 
 - [Minnowboard-MAX Website](http://www.minnowboard.org/meet-minnowboard-max/)
